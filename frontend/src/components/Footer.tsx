@@ -25,6 +25,7 @@ export default function Footer() {
               <li><Link to="/about">About the farm</Link></li>
               <li><Link to="/services">Poultry operations</Link></li>
               <li><Link to="/news">News</Link></li>
+              <li><Link to="/blog">Blog</Link></li>
               <li><Link to="/contact">Contact</Link></li>
             </ul>
           </div>

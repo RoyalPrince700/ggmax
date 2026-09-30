@@ -7,6 +7,7 @@ const links = [
   { to: '/about', label: 'The farm' },
   { to: '/services', label: 'Poultry' },
   { to: '/news', label: 'News' },
+  { to: '/blog', label: 'Blog' },
   { to: '/contact', label: 'Contact' },
 ]
 
